@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Our Love Story ❤️</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>❤️ Our Love Story ❤️</h1>
+
+    <img src="https://picsum.photos/300" alt="Photo">
+
+    <h2>For My Love</h2>
+
+    <p>
+        Every day with you is the best day of my life.
+        Thank you for making my world beautiful.
+        I love you forever. ❤️
+    </p>
+
+    <button onclick="showMessage()">Click Me ❤️</button>
+
+    <h3 id="message"></h3>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
